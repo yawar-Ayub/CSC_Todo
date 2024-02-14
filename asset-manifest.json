@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CSC_Todo/static/css/main.f855e6bc.css",
+    "main.js": "/CSC_Todo/static/js/main.a6565e59.js",
+    "index.html": "/CSC_Todo/index.html",
+    "main.f855e6bc.css.map": "/CSC_Todo/static/css/main.f855e6bc.css.map",
+    "main.a6565e59.js.map": "/CSC_Todo/static/js/main.a6565e59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a6565e59.js"
+  ]
+}
